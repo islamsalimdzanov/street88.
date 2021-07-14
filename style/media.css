@@ -1,0 +1,224 @@
+@media(max-width: 1476px) {
+    .bigmak {
+        background-position: center;
+    }
+    .page__bigmak {
+        background-position: center;
+    }
+}
+
+@media(max-width: 1110px) {
+    .bigmak__paragraf {
+        width: 100%;
+    }
+    .page__bigmak-paragraf {
+        width: 100%;
+        height: max-content;
+    }
+    .page__main-img {
+        width: 100%;
+    }
+    .page__main-description {
+        width: 100%;
+    }
+}
+
+@media(max-width: 744px) {
+    .btns {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .p-btns {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .main__cards {
+        justify-content: center;
+    }
+    .main__list {
+        justify-content: center;
+    }
+    .bigmak {
+        background-size: 100% 1200px;
+    }
+    .page__bigmak {
+        background-size: 100% 1200px;
+    }
+}
+
+@media(max-width: 958px) {
+    .header__content {
+        flex-direction: column;
+        align-items: center;
+    }
+    .page__header-content {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media(max-width: 416px) {
+    .header__list {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .page__header-list {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .header__prenav-link {
+        margin-bottom: 10px;
+    }
+    .main__list {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .footer__list {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .page__footer-link  
+    .header__prenav-list {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    } 
+}
+
+@media(max-width: 350px) {
+    .footer__info {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .footer__list{
+        flex-direction: column;
+    }
+    .footer__mail {
+        margin-top: 10px;
+    }
+}
+
+@media(max-width: 406px) {
+    .card {
+        width: 100%;
+    }
+    .laguna {
+        width: 100%;
+    }
+    .laguna-description {
+        width: 100%;
+    }
+}
+
+@media(max-width: 724px) {
+    .header__prenav {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .header__prenav-list {
+        margin-top: 20px;
+    }
+}
+
+@media(max-width: 580px) {
+    .header__list {
+        flex-direction: column;
+    }
+    .page__main-description {
+        font-size: 13px;
+    }
+}
+
+@media(max-width: 490px) {
+    .btns {
+        flex-direction: column;
+    }
+}
+
+@media(max-width: 382px) {
+    .bigmak__title {
+        font-size: 50px;
+    }
+    .bigmak__price {
+        width: 255px;
+        font-size: 45px;
+    }
+    .page__bigmak-paragraf {
+        font-size: 12px;
+    }
+    .page__bigmak-price {
+        width: 255px;
+        font-size: 45px;
+    }
+    .page__bigmak-title {
+        font-size: 50px;
+    }
+}
+
+@media(max-width: 340px) {
+    .header__prenav-list {
+        flex-direction: column;
+    }
+    
+}
+
+@media(max-width: 292px) {
+    .maps-title {
+        font-size: 30px;
+    }
+}
+
+@media(max-width: 266px) {
+    .bigmak__paragraf {
+        font-size: 10px;
+    }
+    .bigmak__title2 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .bigmak__title {
+        margin-bottom: 0;
+    }
+}
+
+@media(max-width: 462px) {
+    .page__prenav {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .page__prenav-list {
+        margin-top: 20px;
+    }
+    .page__header-list {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media(max-width: 324px) {
+    .page__footer-info {
+        flex-direction: column;
+        align-items: center;
+    }
+    .page__map-title {
+        font-size: 30px;
+    }
+    .page__main-title {
+        font-size: 35px;
+    }
+    .footer__list {
+        margin-top: 0;
+    }
+}
+
+@media(max-width: 354px) {
+    .page__prenav-list {
+        flex-direction: column;
+    }
+}
